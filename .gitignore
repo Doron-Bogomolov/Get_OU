@@ -1,0 +1,15 @@
+# Ignore log files
+*.log
+
+# Ignore the settings folder created by some IDEs
+.vscode/
+
+# Ignore any hidden files
+.*
+!.gitignore
+
+# Ignore any temporary files
+*~
+
+# Ignore temporary log text file
+logFile.txt
