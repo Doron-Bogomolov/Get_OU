@@ -32,5 +32,5 @@ The script will automatically recognize if you have administrative privileges an
 The script will display a table with the computer names and their corresponding OUs, and optionally their modification history. You also have the option to export this data to a text or CSV file. With version 3.0, you can choose the folder where you'd like to save the file through a GUI.
 
 ## Author
-Emperor Dor
+Doron Bogomolov
 
